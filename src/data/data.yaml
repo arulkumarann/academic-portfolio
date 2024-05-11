@@ -14,7 +14,7 @@ info:
         text: 'SRM University'
   about:
     description:
-      - "A first year UG student with a keen interest in **Computer Vision** domain under **Deep Learning**"
+      - "A first year UG student with a keen interest in **Computer Vision** domain under **Deep Learning**."
     links:
       - icon: 'mdi:document'
         text: 'Resume'
