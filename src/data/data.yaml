@@ -11,7 +11,7 @@ info:
       - icon: 'mdi:location'
         text: 'Chennai, India'
       - icon: 'mdi:university'
-        text: 'SRM University'
+        text: 'SRM University - KTR'
   about:
     description:
       - "A first year UG student with a keen interest in **Computer Vision** domain under **Deep Learning**."
