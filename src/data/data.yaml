@@ -77,7 +77,7 @@ sections:
         - " -  Coordinated and executed a successful hackathon and datathon competition as a key member of the
 organizing team, showcasing organizational, and teamwork skills."
         image: "ngai1.png"
-
+        tags: ["All", "Machine Learning"]
 #  - title: 'Projects'
 #    data:
 #      - title: "Heart Disease Prediction"
