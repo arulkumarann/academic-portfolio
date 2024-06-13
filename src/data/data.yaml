@@ -78,17 +78,19 @@ sections:
 organizing team, showcasing organizational, and teamwork skills."
         image: "ngai1.png"
         tags: ["All", "Machine Learning"]
-#  - title: 'Projects'
-#    data:
-#      - title: "Heart Disease Prediction"
-#        description:
-#        - " -  Web application utilizing FastAPI and MongoDB for heart disease prediction and data storage."
-#        - " - Enables users to input health parameters for prediction, with data persistently stored in MongoDB for further analysis and tracking."
-#        links:
-#          - icon: 'mdi:github'
-#            text: 'Github'
-#            link: 'https://github.com/arul-5/heart-disease-prediction'
-#        image: ''s
+  - title: 'Projects'
+    data:
+      - title: "VQA V1 PyTorch Implementation"
+        description:
+        - " -  Implemented the vanilla **VQA** system using PyTorch, replicating the research paper **VQA: Visual Question Answering**."
+        - " -  Implemented comprehensive data handling scripts for downloading, preprocessing, and preparing image and question datasets and for training the model."
+        links:
+          - icon: 'mdi:github'
+            text: 'Github'
+            link: 'https://github.com/arulkumarann/vqa_implementation'
+        image: 'vqa_architecture.GIF'
+        tags: ['All', 'Machine Learning']
+        duration: "June 2024"
 #      - title: 'Quantum Teleportation'
 #        description:
 #          - 'Engineered a Quantum Data Teleportation system with **Qiskit** using 3 qubits, employing strategic Bell pair utilization and harnessing the principles of **Quantum Superposition** and **Quantum Entanglement**. Implemented a robust teleportation mechanism, showcasing expertise in quantum algorithms.'
