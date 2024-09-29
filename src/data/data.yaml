@@ -92,7 +92,7 @@ organizing team, showcasing organizational, and teamwork skills."
         tags: ['All', 'Machine Learning']
         duration: "June 2024"
 
-              - title: "Image Segmentation through U-Net Architecture Implementation"
+      - title: "Image Segmentation through U-Net Architecture Implementation"
         description:
         - " - Developed a **U-Net architecture** for image segmentation, achieving a validation accuracy of 98% and an Intersection over Union (IoU) score of 95%."
         - " - Implemented custom data preprocessing and augmentation techniques to enhance model performance on diverse datasets."
