@@ -101,7 +101,7 @@ organizing team, showcasing organizational, and teamwork skills."
           - icon: 'mdi:github'
             text: 'Github'
             link: 'https://github.com/arulkumarann/u-net-implementation'
-        image: 'U-Net.GIF'
+        image: 'U-Net.png'
         tags: ['All', 'Machine Learning']
         duration: "Sep 2024"
 
@@ -118,7 +118,5 @@ organizing team, showcasing organizational, and teamwork skills."
 #           link: 'https://github.com/vaishnav-mk/quantum-teleportation'
 #        image: 'circuit.png'
 #        tags: ['Machine Learning']
-`
 
-      
  
