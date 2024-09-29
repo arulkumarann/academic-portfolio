@@ -91,6 +91,20 @@ organizing team, showcasing organizational, and teamwork skills."
         image: 'vqa_architecture.GIF'
         tags: ['All', 'Machine Learning']
         duration: "June 2024"
+
+              - title: "Image Segmentation through U-Net Architecture Implementation"
+        description:
+        - " - Developed a **U-Net architecture** for image segmentation, achieving a validation accuracy of 98% and an Intersection over Union (IoU) score of 95%."
+        - " - Implemented custom data preprocessing and augmentation techniques to enhance model performance on diverse datasets."
+        - " - Utilized **PyTorch** for model training and evaluation, leading to significant improvements in accuracy and IoU metrics compared to baseline models."
+        links:
+          - icon: 'mdi:github'
+            text: 'Github'
+            link: 'https://github.com/arulkumarann/u-net-implementation'
+        image: 'U-Net.GIF'
+        tags: ['All', 'Machine Learning']
+        duration: "Sep 2024"
+
 #      - title: 'Quantum Teleportation'
 #        description:
 #          - 'Engineered a Quantum Data Teleportation system with **Qiskit** using 3 qubits, employing strategic Bell pair utilization and harnessing the principles of **Quantum Superposition** and **Quantum Entanglement**. Implemented a robust teleportation mechanism, showcasing expertise in quantum algorithms.'
@@ -104,7 +118,7 @@ organizing team, showcasing organizational, and teamwork skills."
 #           link: 'https://github.com/vaishnav-mk/quantum-teleportation'
 #        image: 'circuit.png'
 #        tags: ['Machine Learning']
-
+`
 
       
  
