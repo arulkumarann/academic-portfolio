@@ -80,18 +80,6 @@ organizing team, showcasing organizational, and teamwork skills."
         tags: ["All", "Machine Learning"]
   - title: 'Projects'
     data:
-      - title: "VQA V1 PyTorch Implementation"
-        description:
-        - " -  Implemented the vanilla **VQA** system using PyTorch, replicating the research paper **VQA: Visual Question Answering**."
-        - " -  Implemented comprehensive data handling scripts for downloading, preprocessing, and preparing image and question datasets and for training the model."
-        links:
-          - icon: 'mdi:github'
-            text: 'Github'
-            link: 'https://github.com/arulkumarann/vqa_implementation'
-        image: 'vqa_architecture.GIF'
-        tags: ['All', 'Machine Learning']
-        duration: "June 2024"
-
       - title: "Image Segmentation through U-Net Architecture Implementation"
         description:
         - " - Developed a **U-Net architecture** for image segmentation, achieving a validation accuracy of 98% and an Intersection over Union (IoU) score of 95%."
@@ -104,6 +92,19 @@ organizing team, showcasing organizational, and teamwork skills."
         image: 'U-Net.png'
         tags: ['All', 'Machine Learning']
         duration: "Sep 2024"
+      - title: "VQA V1 PyTorch Implementation"
+        description:
+        - " -  Implemented the vanilla **VQA** system using PyTorch, replicating the research paper **VQA: Visual Question Answering**."
+        - " -  Implemented comprehensive data handling scripts for downloading, preprocessing, and preparing image and question datasets and for training the model."
+        links:
+          - icon: 'mdi:github'
+            text: 'Github'
+            link: 'https://github.com/arulkumarann/vqa_implementation'
+        image: 'vqa_architecture.GIF'
+        tags: ['All', 'Machine Learning']
+        duration: "June 2024"
+
+      
 
 #      - title: 'Quantum Teleportation'
 #        description:
