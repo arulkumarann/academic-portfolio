@@ -18,7 +18,7 @@ info:
     links:
       - icon: 'mdi:document'
         text: 'Resume'
-        link: 'https://drive.google.com/file/d/1r5M8fV0fZxHVIW5-paS1sCpxPVOT--Fv/view?usp=sharing'
+        link: 'https://drive.google.com/file/d/1CM5EWTIKBrUOYq_OzdtCvyuyQ5T4avVs/view?usp=sharing'
       #- icon: 'system-uicons:write'
         #link: 'https://medium.com/@wishee'
         #text: 'Medium Articles'
@@ -50,7 +50,7 @@ info:
       #- title: 'Portfolio'
         #url: 'https://vaishnav.one'
       - title: 'Resume'
-        url: 'https://drive.google.com/file/d/1r5M8fV0fZxHVIW5-paS1sCpxPVOT--Fv/view?usp=sharing'
+        url: 'https://drive.google.com/file/d/1CM5EWTIKBrUOYq_OzdtCvyuyQ5T4avVs/view?usp=sharing'
 sections:
   - title: 'Projects'
     data:
